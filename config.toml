@@ -1,0 +1,4 @@
+baseURL = "https://football-league55.vercel.app"
+languageCode = "en-us"
+title = "Fantasy Football League"
+theme = "hugo-theme-minos"
